@@ -1,6 +1,6 @@
 ---
 title: "git_01"
-author: "Daniel"
+author: "Daniel Montano"
 date: "Fall semester"
 output: html_document
 ---
@@ -15,11 +15,6 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a lewis carrol in this section!-->
-A BOAT beneath a sunny sky,  
-Lingering onward dreamily  
-In an evening of July --  
-Children three that nestle near,  
-Eager eye and willing ear,  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
